@@ -1,0 +1,77 @@
+<firm name="Muztorg">
+    <supplier name="Fender">
+        <product name="Stratocaster" count="20" priority="3" />
+        <product name="Telecaster" count="15" priority="2" />
+        <product name="Jazzmaster" count="10" priority="4" />
+    </supplier>
+    <supplier name="Gibson">
+        <product name="Les Paul" count="25" priority="4" />
+        <product name="SG" count="18" priority="3" />
+        <product name="Flying V" count="12" priority="2" />
+    </supplier>
+    <supplier name="Ibanez">
+        <product name="RG550" count="30" priority="3" />
+        <product name="JEM" count="20" priority="4" />
+        <product name="Satriani" count="15" priority="2" />
+    </supplier>
+    <supplier name="PRS">
+        <product name="Custom 24" count="22" priority="4" />
+        <product name="SE" count="17" priority="3" />
+        <product name="McCarty" count="13" priority="2" />
+    </supplier>
+    <supplier name="Jackson">
+        <product name="Rhoads" count="28" priority="3" />
+        <product name="Soloist" count="21" priority="4" />
+        <product name="Dinky" count="16" priority="2" />
+    </supplier>
+    <supplier name="Epiphone">
+        <product name="SG" count="26" priority="4" />
+        <product name="Les Paul" count="19" priority="3" />
+        <product name="Dot" count="14" priority="2" />
+    </supplier>
+    <supplier name="ESP">
+        <product name="Eclipse" count="32" priority="3" />
+        <product name="LTD" count="24" priority="4" />
+        <product name="M-II" count="18" priority="2" />
+    </supplier>
+    <supplier name="Schecter">
+        <product name="Hellraiser" count="27" priority="4" />
+        <product name="Omen" count="20" priority="3" />
+        <product name="C-1" count="15" priority="2" />
+    </supplier>
+    <supplier name="Fender Custom Shop">
+        <product name="Stratocaster" count="35" priority="4" />
+        <product name="Telecaster" count="26" priority="3" />
+        <product name="Jazz Bass" count="20" priority="2" />
+    </supplier>
+    <supplier name="PRS SE">
+        <product name="Custom 24" count="30" priority="3" />
+        <product name="SE Standard 24" count="22" priority="4" />
+        <product name="SE Custom 22" count="18" priority="2" />
+    </supplier>
+    <supplier name="Gretsch">
+        <product name="Broadkaster" count="33" priority="4" />
+        <product name="Electromatic" count="25" priority="3" />
+        <product name="Streamliner" count="19" priority="2" />
+    </supplier>
+    <supplier name="Ernie Ball Music Man">
+        <product name="StingRay" count="36" priority="3" />
+        <product name="Axis" count="27" priority="4" />
+        <product name="Luke" count="21" priority="2" />
+    </supplier>
+    <supplier name="Taylor">
+        <product name="314ce" count="31" priority="4" />
+        <product name="214ce" count="23" priority="3" />
+        <product name="GS Mini" count="17" priority="2" />
+    </supplier>
+    <supplier name="Martin">
+        <product name="D-28" count="38" priority="4" />
+        <product name="D-18" count="28" priority="3" />
+        <product name="DX1AE" count="20" priority="2" />
+    </supplier>
+    <supplier name="Yamaha">
+        <product name="LL6 ARE" count="34" priority="3" />
+        <product name="FG800" count="26" priority="4" />
+        <product name="APX600" count="18" priority="2" />
+    </supplier>
+</firm>
